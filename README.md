@@ -22,7 +22,7 @@ Here are some of my best and ongoing projects:
 
 ### 🚀 Airplane Price Prediction (Final Year Project)
 Machine learning model to estimate airplane prices using regression techniques.  
-[🔗 View Project](https://github.com/Deepika-Rajasekar/Airplane-Price-Prediction)
+[🔗 View Project]((https://github.com/Deepika-Rajasekar/Flight-Price-Prediction))
 
 ### 📊 Power BI Dashboards  
 A set of Power BI reports focusing on data cleaning, modeling, and creating clear visual insights. 
