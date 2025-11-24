@@ -22,10 +22,10 @@ Here are some of my best and ongoing projects:
 
 ### 🚀 Airplane Price Prediction (Final Year Project)
 Machine learning model to estimate airplane prices using regression techniques.  
-[🔗 View Project](https://github.com/Deepika-Rajasekar/Flight-Price-Prediction)
+[🔗 View Project](https://github.com/Deepika-Rajasekar/Airplane-Price-Prediction)
 
 ### 📊 Power BI Dashboards  
-A set of Power BI reports focusing on data cleaning, modeling, and creating clear visual insights. 
+A set of Power BI reports focusing on data cleaning, modeling, and creating clear visual insights.
 **Status:** Expanding this section – will add the repository soon.
 
 ### 🍽️ Food Delivery SQL Case Study  
@@ -50,4 +50,4 @@ End-to-end SQL analytics case study covering orders, customers, and revenue insi
 
 ---
 
-⭐ *Thanks for visiting my GitHub! I update my projects regularly. Feel free to explore and connect with me.*
+⭐ *Thanks for visiting my GitHub! I update my projects regularly. I’m always open to collaboration and learning opportunities.*
