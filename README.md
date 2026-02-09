@@ -1,8 +1,23 @@
-# 👋 Hi, I'm Deepika  
+# Hi there, I'm Deepika  
 ### Data Analyst | Business Analyst
 #### Python | SQL | Power BI | Machine Learning | R | Excel
 
-I recently completed my Bachelor's degree in **Data Science**, and I'm honing skills in **Data Analytics, Business Analytics, Visualization, and Machine Learning**.  
+## About me:
+- B.Sc Data Science graduate
+- Passionate about Data Science, Business analytics, Statistical analysis and Machine Learning
+- Skilled in Python, SQL, Excel, Power BI, R
+
+--- 
+
+## Project experience
+- Airplane price prediction - Machine learning model to predict airplane prices
+- Customer segmentation & churn - Analysed E-commerce data to make better business decisions
+- Sales Dashboard - visualization explaining sales using Power BI
+- Food Delivery casestudy - used SQL to analyze food deliveries    
+
+---
+
+I recently completed my Bachelor's degree in **Data Science**, and I'm currently focusing on building strong skills in **Data Analytics, Business Analytics, Visualization, and Machine Learning**.  
 I'm actively working on real-world projects and continuously improving my problem-solving abilities.
 
 My goal is to become a **skilled Data Analyst**, create impactful projects, and contribute to meaningful work in the data field.
@@ -36,16 +51,14 @@ End-to-end SQL analytics case study covering orders, customers, and revenue insi
 ---
 
 ## 🌱 What I'm Learning Now
-- Advanced SQL (window functions, joins, case studies)  
-- Python problem-solving  
-- Power BI real-time dashboards  
+- Data analytics with Gen AI
+- Bue
 - Machine learning projects for my portfolio  
 
 ---
 
 ## 📫 Connect With Me
 - **Portfolio:** https://deepika-rajasekar.github.io/Portfolio  
-- **GitHub:** https://github.com/Deepika-Rajasekar  
 - **LinkedIn:** www.linkedin.com/in/deepika-rs  
 - **Email:** deepika.rajasekar07@gmail.com
 
