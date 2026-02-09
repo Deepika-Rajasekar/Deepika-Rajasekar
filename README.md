@@ -2,7 +2,7 @@
 ### Data Analyst | Business Analyst
 #### Python | SQL | Power BI | Machine Learning | R | Excel
 
-I recently completed my **B.Sc in Data Science**, and I'm building strong skills in **Data analysis, Visualization, and Machine Learning**.  
+I recently completed my Bachelor's degree in **Data Science**, and I'm honing skills in **Data Analytics, Business Analytics, Visualization, and Machine Learning**.  
 I'm actively working on real-world projects and continuously improving my problem-solving abilities.
 
 My goal is to become a **skilled Data Analyst**, create impactful projects, and contribute to meaningful work in the data field.
@@ -10,18 +10,18 @@ My goal is to become a **skilled Data Analyst**, create impactful projects, and 
 ---
 
 ## 🔧 Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), R
 - **Databases:** SQL (MySQL), MongoDB  
 - **Visualization:** Power BI, Excel, Tableau  
 - **Machine Learning:** Regression, Classification, Scikit-Learn  
-- **Tools:** GitHub, Jupyter Notebook, VS Code  
+- **Tools:** GitHub, Jupyter Notebook, VS Code, R Studio  
 
 ---
 
 ## 📌 Featured Projects
 Here are some of my best and ongoing projects:
 
-### 🚀 Airplane Price Prediction (Final Year Project)
+### 🚀 Airplane Price Prediction 
 Machine learning model to estimate airplane prices using regression techniques.  
 [🔗 View Project](https://github.com/Deepika-Rajasekar/Airplane-Price-Prediction)
 
