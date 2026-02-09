@@ -33,30 +33,6 @@ My goal is to become a **skilled Data Analyst**, create impactful projects, and 
 
 ---
 
-## 📌 Featured Projects
-Here are some of my best and ongoing projects:
-
-### 🚀 Airplane Price Prediction 
-Machine learning model to estimate airplane prices using regression techniques.  
-[🔗 View Project](https://github.com/Deepika-Rajasekar/Airplane-Price-Prediction)
-
-### 📊 Power BI Dashboards  
-A set of Power BI reports focusing on data cleaning, modeling, and creating clear visual insights.
-**Status:** Expanding this section – will add the repository soon.
-
-### 🍽️ Food Delivery SQL Case Study  
-End-to-end SQL analytics case study covering orders, customers, and revenue insights.  
-**Status:** Currently building this project. Will publish the full repository soon.
-
----
-
-## 🌱 What I'm Learning Now
-- Data analytics with Gen AI
-- Bue
-- Machine learning projects for my portfolio  
-
----
-
 ## 📫 Connect With Me
 - **Portfolio:** https://deepika-rajasekar.github.io/Portfolio  
 - **LinkedIn:** www.linkedin.com/in/deepika-rs  
