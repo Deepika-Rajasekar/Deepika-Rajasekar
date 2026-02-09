@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepika  
 ### Data Analyst | Business Analyst
-####Python | SQL | Power BI | Machine Learning | R | Excel
+#### Python | SQL | Power BI | Machine Learning | R | Excel
 
 I recently completed my **B.Sc in Data Science**, and I'm building strong skills in **Data analysis, Visualization, and Machine Learning**.  
 I'm actively working on real-world projects and continuously improving my problem-solving abilities.
