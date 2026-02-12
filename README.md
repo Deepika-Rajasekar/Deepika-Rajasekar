@@ -40,7 +40,7 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 #### ✈️ [Airplane Price Prediction - Machine Learning](https://github.com/Deepika-Rajasekar/Flight-Price-Prediction)
 * **Objective:** Help Aviation industry, sellers and buyers to estimate the Airplane price.
 * **The Process:** Performed **Exploratory Data Analysis (EDA)** and built Multiple Linear Regression model in **R** to estimate price based on features like Age, No. of Engines, Engine Type, Capacity, etc.
-* **The Insight:** Achieved 86% predictive accuracy; identified that engine specifications and seating capacity are the primary drivers of aircraft market valuation.
+* **The Insight:** Achieved 75% predictive accuracy; identified that engine specifications and seating capacity are the primary drivers of aircraft market valuation.
 
 ---
 
