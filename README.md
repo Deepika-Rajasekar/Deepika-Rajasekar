@@ -14,7 +14,7 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 | **Data Extraction** | SQL (MySQL, Joins, CTEs, Window Functions), MongoDB |
 | **Analysis & Modeling** | R (Tidyverse, ggplot2), Python (Pandas, NumPy) |
 | **Visualization & BI** | Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Power Query) |
-| **Analytical Methods** | Exploratory Data Analysis (EDA), Trend Analysis, RFM Analysis |
+| **Analytical Methods** | Exploratory Data Analysis (EDA), Statistical Analysis, Trend Analysis, RFM Analysis |
 | **Workflow** | GitHub, RStudio, Jupyter Notebook, VS Code |
 
 ---
@@ -31,16 +31,15 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 * **The Process:** Built an interactive **Power BI** dashboard connected to Excel-based datasets.
 * **The Insight:** Identified underperforming regions and suggested data-driven marketing shifts.
 
-#### ✈️ [Aviation Market Analysis](https://github.com/Deepika-Rajasekar/Flight-Price-Prediction)
-* **Objective:** Understand key price drivers in the aircraft market.
-* **The Process:** Performed **Exploratory Data Analysis (EDA)** and Regression in **R** to visualize price trends.
-* **The Insight:** Quantified the impact of maintenance history and engine type on aircraft resale value.
-
+#### ✈️ [Airplane Price Prediction - Machine Learning](https://github.com/Deepika-Rajasekar/Flight-Price-Prediction)
+* **Objective:** Help Aviation industry, sellers and buyers to estimate the Airplane price.
+* **The Process:** Performed **Exploratory Data Analysis (EDA)** and built Multiple Linear Regression model in **R** to estimate price based on features like Age, No. of Engines, Engine Type, Capacity, etc.
+* **The Insight:** Achieved 86% predictive accuracy; identified that engine specifications and seating capacity are the primary drivers of aircraft market valuation.
 ---
 
 ### 📈 Current Focus
-* 🔭 **Project Phase:** Building a comprehensive **Customer Retention Dashboard** using SQL and Power BI.
-* 🌱 **Upskilling:** Mastering **Advanced DAX** in Power BI and **R-Shiny** for interactive reporting.
+* 🔭 **Project Phase:** Building a comprehensive **Customer Retention and Customer Churn Analysis** using Python and Power BI.
+* 🌱 **Upskilling:** Mastering **Advanced DAX** in Power BI and **SQL** for Analysis.
 * 💬 **Ask me about:** Data Cleaning, SQL Optimization, and Dashboard Design.
 
 ---
