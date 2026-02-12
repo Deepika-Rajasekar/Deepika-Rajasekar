@@ -1,35 +1,54 @@
-#Hi, I'm Deepika. R | Strategic Data Professional 📊
-I specialize in bridging the gap between complex datasets and actionable business strategy. With a background in Data Science, I leverage R, SQL, and Python to transform raw numbers into clear, data-driven narratives that optimize operations and drive growth.
+# Hi there, I'm Deepika! 👋 
 
-##🚀 Core Technical Stack
-Statistical Programming: R (Tidyverse, Caret, ggplot2), Python (Scikit-Learn, Pandas)
+### Data Analyst | Business Intelligence Specialist 📊
+**Transforming raw data into clear, actionable business narratives.**
 
-Data Management: SQL (Advanced Querying, CTEs, Joins), MongoDB
+I am a Data Analytics professional dedicated to finding the "why" behind the numbers. I specialize in using **SQL**, **R**, and **Power BI** to clean complex datasets and build intuitive dashboards that help stakeholders make better decisions.
 
-Business Intelligence: Power BI, Tableau, Excel (Advanced Modeling)
+---
 
-Analytical Focus: Predictive Modeling, Customer Segmentation, and Statistical Analysis
+### 🛠️ Technical Toolkit
 
-##🧪 Featured Strategic Projects
-###Airplane Price Prediction | R & Machine Learning
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Extraction** | SQL (MySQL, Joins, CTEs, Window Functions), MongoDB |
+| **Analysis & Modeling** | R (Tidyverse, ggplot2), Python (Pandas, NumPy) |
+| **Visualization & BI** | Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Power Query) |
+| **Analytical Methods** | Exploratory Data Analysis (EDA), Trend Analysis, RFM Analysis |
+| **Workflow** | GitHub, RStudio, Jupyter Notebook, VS Code |
 
-Developed a predictive engine using Multiple Linear Regression to identify value drivers in aircraft assets.
+---
 
-Strategic Impact: Provided insights into price depreciation trends for aviation procurement.
+### 🧪 Analytics Case Studies
 
-###Customer Churn & Segmentation | E-commerce Analytics
+#### 🍱 [Food Delivery Logistics Analysis](https://github.com/Deepika-Rajasekar)
+* **Objective:** Identify operational bottlenecks in the delivery lifecycle.
+* **The Process:** Engineered complex **SQL queries** to analyze delivery times and driver efficiency.
+* **The Insight:** Pinpointed peak-hour delays and geographic clusters with high order-cancellation rates.
 
-Analyzed customer behavior to identify high-risk churn segments and loyalty drivers.
+#### 📈 [E-commerce Sales Performance Dashboard](https://github.com/Deepika-Rajasekar/Guvi-Sales-Performance-Dashboard)
+* **Objective:** Visualize regional sales growth and product performance.
+* **The Process:** Built an interactive **Power BI** dashboard connected to Excel-based datasets.
+* **The Insight:** Identified underperforming regions and suggested data-driven marketing shifts.
 
-Strategic Impact: Formulated data-backed retention strategies to reduce revenue loss.
+#### ✈️ [Aviation Market Analysis](https://github.com/Deepika-Rajasekar/Flight-Price-Prediction)
+* **Objective:** Understand key price drivers in the aircraft market.
+* **The Process:** Performed **Exploratory Data Analysis (EDA)** and Regression in **R** to visualize price trends.
+* **The Insight:** Quantified the impact of maintenance history and engine type on aircraft resale value.
 
-###Logistics Case Study | SQL
+---
 
-Engineered complex SQL queries to analyze delivery lifecycle efficiency and bottlenecks.
+### 📈 Current Focus
+* 🔭 **Project Phase:** Building a comprehensive **Customer Retention Dashboard** using SQL and Power BI.
+* 🌱 **Upskilling:** Mastering **Advanced DAX** in Power BI and **R-Shiny** for interactive reporting.
+* 💬 **Ask me about:** Data Cleaning, SQL Optimization, and Dashboard Design.
 
-Strategic Impact: Identified peak-hour delays to support operational optimization.
+---
 
-##📈 Beyond the Code
-I don’t just deliver numbers; I deliver answers. I thrive at the intersection of statistical rigor and business impact. Currently, I am focused on applying Machine Learning to solve real-world challenges in Finance and Logistics.
+### 📫 Let's Connect!
+* **Portfolio:** [deepika-rajasekar.github.io/Portfolio](https://deepika-rajasekar.github.io/Portfolio)
+* **LinkedIn:** [linkedin.com/in/deepika-rs](https://www.linkedin.com/in/deepika-rs)
+* **Email:** [deepika.rajasekar07@gmail.com](mailto:deepika.rajasekar07@gmail.com)
 
-📫 Connect With Me: Portfolio | LinkedIn | Email
+---
+*“Good analysis isn't about the most complex tool; it's about the clearest answer.”*
