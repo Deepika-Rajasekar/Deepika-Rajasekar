@@ -3,22 +3,17 @@
 ### Data Analyst | Business Intelligence Specialist 📊
 **Transforming raw data into clear, actionable business narratives.**
 
-# 💫 About Me:
+## 💫 About Me:
 I am a Data Analytics professional dedicated to finding the "why" behind the numbers. I specialize in using **SQL**, **R**, and **Power BI** to clean complex datasets and build intuitive dashboards that help stakeholders make better decisions.<br>
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
-
-
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -49,14 +44,14 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 
 ---
 
-### 📈 Current Focus
+## 📈 Current Focus
 * 🔭 **Project Phase:** Building a comprehensive **Customer Retention and Customer Churn Analysis** using Python and Power BI.
 * 🌱 **Upskilling:** Mastering **Advanced DAX** in Power BI and **SQL** for Analysis.
 * 💬 **Ask me about:** Data Cleaning, SQL Optimization, and Dashboard Design.
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 * **Portfolio:** [deepika-rajasekar.github.io/Portfolio](https://deepika-rajasekar.github.io/Portfolio)
 * **LinkedIn:** [linkedin.com/in/deepika-rs](https://www.linkedin.com/in/deepika-rs)
 * **Email:** [deepika.rajasekar07@gmail.com](mailto:deepika.rajasekar07@gmail.com)
