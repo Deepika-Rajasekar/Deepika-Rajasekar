@@ -58,6 +58,3 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 
 ---
 *“Good analysis isn't about the most complex tool; it's about the clearest answer.”*
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepika-rajasekar&color=blue)
-
