@@ -1,6 +1,6 @@
 # Hi there, I'm Deepika! 👋 
 
-### Data Analyst | Business Intelligence Specialist 📊
+### Data & Business Intelligence Analyst 📊
 **Transforming raw data into clear, actionable business narratives.**
 
 ## 💫 About Me:
@@ -27,10 +27,10 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 
 ### 🧪 Analytics Case Studies
 
-#### 🍱 [Food Delivery Logistics Analysis](https://github.com/Deepika-Rajasekar)
-* **Objective:** Identify operational bottlenecks in the delivery lifecycle.
-* **The Process:** Engineered complex **SQL queries** to analyze delivery times and driver efficiency.
-* **The Insight:** Pinpointed peak-hour delays and geographic clusters with high order-cancellation rates.
+#### 🍱 [Zomato Data Analysis](https://github.com/Deepika-Rajasekar)
+* **Objective:** Analyze the customer preferences and restaurant trends to make informed business decisions because understanding this is very important in the food industry
+* **The Process:**  Analysed preferences and trends using **Python** to provide clear insights
+* **The Insight:** By the end of this analysis, i found that dining restaurants primarily accept offline orders whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants but prefer online ordering at cafes
 
 #### 📈 [E-commerce Sales Performance Dashboard](https://github.com/Deepika-Rajasekar/Guvi-Sales-Performance-Dashboard)
 * **Objective:** Visualize regional sales growth and product performance.
@@ -46,7 +46,7 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 
 ## 📈 Current Focus
 * 🔭 **Project Phase:** Building a comprehensive **Customer Retention and Customer Churn Analysis** using Python and Power BI.
-* 🌱 **Upskilling:** Mastering **Advanced DAX** in Power BI and **SQL** for Analysis.
+* 🌱 **Upskilling:** Mastering **Complex Queries** in SQL and **Advanced DAX** in Power BI.
 * 💬 **Ask me about:** Data Cleaning, SQL Optimization, and Dashboard Design.
 
 ---
