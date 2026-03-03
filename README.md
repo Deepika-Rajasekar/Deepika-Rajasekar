@@ -27,11 +27,6 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 
 ### 🧪 Analytics Case Studies
 
-#### 🍱 [Zomato Data Analysis](https://github.com/Deepika-Rajasekar)
-* **Objective:** Analyze the customer preferences and restaurant trends to make informed business decisions because understanding this is very important in the food industry
-* **The Process:**  Analysed preferences and trends using **Python** to provide clear insights
-* **The Insight:** By the end of this analysis, i found that dining restaurants primarily accept offline orders whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants but prefer online ordering at cafes
-
 #### 📈 [E-commerce Sales Performance Dashboard](https://github.com/Deepika-Rajasekar/Guvi-Sales-Performance-Dashboard)
 * **Objective:** Visualize regional sales growth and product performance.
 * **The Process:** Built an interactive **Power BI** dashboard connected to Excel-based datasets.
@@ -41,6 +36,11 @@ I am a Data Analytics professional dedicated to finding the "why" behind the num
 * **Objective:** Help Aviation industry, sellers and buyers to estimate the Airplane price.
 * **The Process:** Performed **Exploratory Data Analysis (EDA)** and built Multiple Linear Regression model in **R** to estimate price based on features like Age, No. of Engines, Engine Type, Capacity, etc.
 * **The Insight:** Achieved 75% predictive accuracy; identified that engine specifications and seating capacity are the primary drivers of aircraft market valuation.
+
+#### 🍱 [Zomato Data Analysis](https://github.com/Deepika-Rajasekar)
+* **Objective:** Analyze the customer preferences and restaurant trends to make informed business decisions because understanding this is very important in the food industry
+* **The Process:**  Analysed preferences and trends using **Python** to provide clear insights
+* **The Insight:** By the end of this analysis, i found that dining restaurants primarily accept offline orders whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants but prefer online ordering at cafes
 
 ---
 
